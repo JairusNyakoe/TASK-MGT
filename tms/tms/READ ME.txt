@@ -1,0 +1,4 @@
+HOW TO INSTALL
+
+  Import the SQL commands to MYSQL
+  DataBase name "tms.sql" then run "localhost/tms/index.php"
